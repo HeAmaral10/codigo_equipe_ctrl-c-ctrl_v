@@ -34,7 +34,7 @@ const sequelize = new Sequelize({
 //                 rejectUnauthorized: false,
 //             },
 //         },
-//         loggin: false,
+//         logging: false,
 //     }
 // );
 
