@@ -1,4 +1,5 @@
 import express from "express";
+import bcrypt form "bcrypt";
 import { Comentarios, Publicacoes, Usuario } from "../models/Models.js";
 
 const router = express.Router();
